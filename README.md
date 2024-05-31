@@ -51,7 +51,7 @@
 
 
 ---
-# 7. 자료
+## 6. 자료
 - 발표자료  
   [선행연구 조사 발표.pdf](https://drive.google.com/file/d/1yVpEJaxesETHPn9F5NeQw57UR9uE3CxA/view?usp=drive_link)  
   [최종 발표.pdf](https://drive.google.com/file/d/11KB0dwEv6wM7rpzWCvbeLyHe5vhpmXfd/view?usp=drive_link)
