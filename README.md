@@ -25,6 +25,7 @@
 - **RT-DERT** : DETRs Beat YOLOs on Real time Object Detection (Baidu Inc., 2023)
 <img src="https://github.com/jihwan21/Real-time-collision-prediction/assets/96354328/12e7298a-0ee3-4dda-ac1f-38059fd31868" width="600" height="300"/>
 <img src="https://github.com/jihwan21/Real-time-collision-prediction/assets/96354328/eb6abf0b-dc9f-481a-b57b-1ffdac37fcfa" width="600" height="300"/>
+
 ---
 ## 5. 최종 발표(팀)
 
