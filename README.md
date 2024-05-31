@@ -23,11 +23,28 @@
 #### 객체 탐지 분야 조사 후 선정 논문 발표
 - **DETR** : End to End Object De tection with Transformers (Facebook AI, 2020)
 - **RT-DERT** : DETRs Beat YOLOs on Real time Object Detection (Baidu Inc., 2023)
-<img src="https://github.com/jihwan21/Real-time-collision-prediction/assets/96354328/12e7298a-0ee3-4dda-ac1f-38059fd31868" width="600" height="300"/>
-<img src="https://github.com/jihwan21/Real-time-collision-prediction/assets/96354328/eb6abf0b-dc9f-481a-b57b-1ffdac37fcfa" width="600" height="300"/>
 
 ---
 ## 5. 최종 발표(팀)
+- 주제 선정 배경(연구 동기)  
+산업재해 발생유형 중 부딪힘, 교통사고 약 25%
+예기치 못한 사고를 미연에 방지 , 예방하기 위해 산업 현장 내 객체 간의 충돌 예측 모델 고안
+현장 CCTV 를 통해 실시간 충돌 예측 및 경고 시스템 구축 -> 충돌로 인한 산업재해 발생률 감소 기대
+
+- 기존 충돌 예측 연구 한계점
+1) 하나의 기준으로 충돌 판단
+2) 객체와 객체 사이의 거리가 멀어 bbox가 겹치지 않는 경우충돌을 예측 할 수 없다는 한계 존재
+3) 작업 차량과 차량 탑승자를 충돌하는 경우로 오판단하는 경우 발생 (IoU의 값이 1에 근사하기 때문)
+
+- 선행 연구 조사
+객체 탐지 모델, 경로 예측 모델
+
+- 제안 방법론 파이프라인
+  1) Multi-Object Detection & Tracking
+  2) Distance Calculation & Predict Trajectory
+  3) Collision Prediction & Output
+
+- 실험 시나리오 설계
 
 
 ---
