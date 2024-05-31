@@ -31,5 +31,5 @@
 ---
 # 7. 자료
 - 발표자료  
-  [선행연구 조사 발표.pdf]([https://drive.google.com/file/d/14xpeZK_nfvuU9xTuHHqFUKDm2bqCK5aJ/view?usp=drive_link](https://drive.google.com/file/d/1yVpEJaxesETHPn9F5NeQw57UR9uE3CxA/view?usp=drive_link))  
-  [최종 발표.pdf]([https://drive.google.com/file/d/1SHvVGw5HNDjqzmD_SFMBxuIetEPE6vto/view?usp=drive_link](https://drive.google.com/file/d/1M-GCkQEfxnieRQqQHJyZffbGGVZfV2o7/view?usp=drive_link))
+  [선행연구 조사 발표.pdf](https://drive.google.com/file/d/1yVpEJaxesETHPn9F5NeQw57UR9uE3CxA/view?usp=drive_link)  
+  [최종 발표.pdf](https://drive.google.com/file/d/1M-GCkQEfxnieRQqQHJyZffbGGVZfV2o7/view?usp=drive_link)
